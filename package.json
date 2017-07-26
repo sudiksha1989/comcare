@@ -1,0 +1,21 @@
+{
+  "name": "phantom_practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "phantomReport.js",
+  "dependencies": {
+    "cron": "^1.2.1",
+    "cron-parser": "^2.4.1",
+    "phantom": "^4.0.5",
+    "phantomjs": "^2.1.7",
+    "promise": "^8.0.1",
+    "timer": "0.0.2",
+    "webpage": "^0.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
